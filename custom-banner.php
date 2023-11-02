@@ -9,4 +9,4 @@ Template Name: Custom Banner Page
 
 
 
-<?php get_footer();?>
+<?php get_footer();?> 
